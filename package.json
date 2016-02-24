@@ -1,8 +1,8 @@
 {
   "name": "timestamp-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A timestamp microservice for FCC",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
